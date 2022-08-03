@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AZZEDDINE75
-- 👀 I’m interested in Web development and cyber security 
+- 👀 I’m interested in Web development and artificial intelligence
 - 🌱 I’m currently learning Web technologies 
 - 💞️ I’m looking to collaborate on Google 
 - 📫 How to reach me in WhatsApp 
